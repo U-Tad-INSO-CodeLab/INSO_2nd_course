@@ -1,0 +1,20 @@
+UNIDAD 1:
+	Arranque del SO --> Posible pregunta.
+	Activación del SO --> Posible pregunta.
+
+Unidad 2:
+	*Ejercicio de planificación --> entra SI o SI. Se introduce en la U1 pero es de la U2.
+	Ejercicio de forks() --> posible pregunta práctica.
+	Comparación entre algoritmos de planificación --> posible pregunta teórica
+	Algoritmos de planificación linux --> posible pregunta teórica
+
+Unidad 3:
+	*Ejercicio de Memoria Caché --> entra SI o SI.
+
+Unidad 4:
+	Posible pregunta teórica: Qué es un conjunto de trabajo? --> Memoria virtual > Introducción
+	Posible pregunta teórica: Concepto Copy on Write --> Gestión de la memoria en linux (diapo 5).
+	* Ejercicio de Memoria Virtual --> Entra SI o SI.
+
+Unidad 5:
+	* Ejercicio de i-nodos --> Entra SI o SI
