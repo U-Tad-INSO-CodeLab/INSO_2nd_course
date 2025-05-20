@@ -1,0 +1,8 @@
+package creacion.factory;
+
+public class Mesa implements Producto {
+    @Override
+    public void utilizar(){
+        System.out.println("Utilizando mesa...");
+    }
+}
